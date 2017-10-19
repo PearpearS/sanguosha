@@ -5,7 +5,7 @@
 }
 body{
 	background-color: #F5F5F5;
-	background-image: url(pic/bk.png);
+	background-image: url(bk.png);
 	background-repeat: no-repeat;
 }
 #logo{
@@ -222,7 +222,7 @@ span:hover{
 	margin-left: 15px;
 	margin-top: 20px;
 	background-color: rgb(237,214,186);
-	background-image: url(pic/video.png);
+	background-image: url(video.png);
 	background-repeat: no-repeat;
 }
 
